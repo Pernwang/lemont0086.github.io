@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lemont0086.github.io
+url: https://Pernwang.github.io
 date_format: "ordinal"
-title: Beyond
-subtitle: "内心火热的大炳哥"
-description: "Beyond的个人博客"
-keywords: Beyond, Bing Yao, Dabingge,Python, Spider
+title: Planet
+subtitle: "阳光正好"
+description: "Planet的个人博客"
+keywords: Planet, Ming Tao, Dabingge,Python, Spider
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
